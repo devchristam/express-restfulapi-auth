@@ -1,4 +1,4 @@
-# Vue 3 simple authorization
+# Express simple authorization backend server
 
 this application is for me to proof of concept, follow the MVC structure with model, controller, router and middleware, the middleware will protect the contentRouter
 
