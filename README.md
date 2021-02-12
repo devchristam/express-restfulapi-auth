@@ -19,7 +19,7 @@ npm install
 npm run test
 ```
 
-### run docker mongoDB (nodejs is not included)
+### run docker mongoDB (node runtime is not included in the docker-compose)
 ```
 npm run serve:db
 ```
